@@ -52,6 +52,8 @@
       <runs />
     </js-module>
   </platform>
+        
+  <description>My plugin description</description>
 
   <platform name="windows">
     <config-file target="config.xml" parent="/*">
